@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Camiseta",
+    "description": "Camiseta de algodón",
+    "code": "CAM123",
+    "price": 29.99,
+    "status": true,
+    "stock": 50,
+    "category": "Ropa",
+    "thumbnails": [
+      "/images/camiseta.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "pantalon",
+    "description": "pantalon blanco",
+    "code": "pant322",
+    "price": 29.99,
+    "status": true,
+    "stock": 40,
+    "category": "Ropa",
+    "thumbnails": [
+      "/images/pantalon.jpg"
+    ]
+  }
+]
